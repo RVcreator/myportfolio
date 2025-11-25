@@ -1,3 +1,5 @@
+Hosted at: https://rv-my-portfolio.netlify.app/
+
 About Me
 
 Hi — I’m Rija Virani, a passionate and aspiring developer with a focus on web development, Python, databases and real‑world projects. This portfolio is my space to showcase my journey — what I’ve learned, the work I’ve completed, and where I’m headed next.
